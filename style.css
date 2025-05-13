@@ -55,7 +55,7 @@ h2 {
   gap: 20px;
 }
 .controls button {
-  background-color: #3498db;
+  background-color: #00b339;
   border: none;
   color: #fff;
   font-size: 1rem;
@@ -67,7 +67,7 @@ h2 {
 }
 .controls button:hover {
   background-color: #2980b9;
-  transform: translateY(-2px);
+  transform: translateY(-10px);
 }
 .controls button:active {
   transform: translateY(0);
